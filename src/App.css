@@ -1,12 +1,16 @@
 .App {
   text-align: center;
+  margin: 0 auto;
+  width: 80%;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
-
+.heading {
+  font-weight: bold;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
