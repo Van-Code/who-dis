@@ -1,12 +1,7 @@
 # Who-Dis
-WIP 
-
-
-I created this to get a glimpse of the political views of a random set of individuals that work at a particular company. I can also search by individual name. 
-
-The results in no way represents the views of the company as a whole.
-
-
+ 
+ How well do you know people? Find out if they support Trump.
+ 
 Run in development mode
 
 ### `npm run start`
